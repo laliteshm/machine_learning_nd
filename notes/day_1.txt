@@ -1,0 +1,16 @@
+Software Engineering Fundamentals
+
+1. Version control
+2. Documentation of code
+
+<Part 1>
+
+Clean code
+  readable, simple, and concise
+Modular
+  reuse, write less, read, collaborate
+Refactoring
+  improve internal structure without changing external functionality
+  resue different parts for other projects
+
+ 
